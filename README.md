@@ -71,10 +71,13 @@ The working of the ETS SMT MATE-660 SMT pick and place machine follows a sequent
 # Output
 
 ## Array bare PCB board
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/6febf6db-9bbb-4ff9-b0af-b8e73953aa97" />
+
 
 
 ## Array bare PCB board with components
+<img width="1280" height="842" alt="image" src="https://github.com/user-attachments/assets/bbf27737-2e38-4c7e-80ae-1ff8be6c5b63" />
 
 
 # Result
-
+The SMT pick-and-place machine successfully picked and placed the SMD electronic components onto the array-type bare PCB with high placement accuracy and repeatability. All components were positioned with correct orientation and alignment across the entire PCB array.
